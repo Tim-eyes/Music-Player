@@ -32,7 +32,7 @@ pyinstaller -F Music.py -w -i 01.ico
 
 Then it is available to get .exe file which can be directly executed in folder *disk*.(The image files are also required upload in this folder. Otherwise script will report error)
 
-[Music.exe](/Music.exe)
+[Music.exe](/disk/Music.exe)
 
 ## Sample Output
 
