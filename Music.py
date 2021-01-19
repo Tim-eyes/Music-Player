@@ -1,7 +1,6 @@
-# You need python pygame lib
 # He Peilin 1809853U-I011-0078
 from tkinter import *
-#from PIL import Image, ImageTk 
+from pillow import image
 from tkinter import filedialog, font, messagebox, ttk
 import os,threading,pygame,time
 
